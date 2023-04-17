@@ -12,7 +12,7 @@ Vamos começar 🤌
 
 ## Desafio #1 - Tipografia
 
-Componentização e Design System é um tema que me interessa bastante, principalmente pelo meu viés de também trabalhar com design de interfaces. Neste desafio utilizei a biblioteca [styled-components](https://styled-components.com/) para melhor gerenciamento do componente, pensando em criação, manutenção e escalabilidade do mesmo. Com isso foi possível criar as props de customização desse componente de tipografia de forma muito fácil.
+Componentização e Design System são temas que me interessam bastante, principalmente pelo meu viés de também trabalhar com design de interfaces. Neste desafio utilizei a biblioteca [styled-components](https://styled-components.com/) para melhor gerenciamento do componente, pensando em criação, manutenção e escalabilidade do mesmo. Com isso foi possível criar as props de customização desse componente de tipografia de forma muito fácil.
 
 Além disso, já que seria necessário utilizar esse “design system” no desafio #2, optei por criar mais um componente: Button. Toda a documentação de como usar esses componentes está descrita nessa página: https://serasa-five.vercel.app/documentacao
 
@@ -22,6 +22,7 @@ Além disso, já que seria necessário utilizar esse “design system” no desa
    `(src/styles/tokens.ts)`
 2. Utilizei `rem` para a unidade de medida do tamanho das fontes. Essa solução é ideal para acessibilidade, já que preserva algumas configurações de dispositivos do usuário. Usei o macete de definir um font-size de 62.5% no html para utilizar `rem` sem precisar fazer a conversão de `px` para `px`. Ex.: 16px equivalem a 1.6rem.
 3. Já no `line-height` do componente, utilizei `px` para deixar a medida fixa, já que usar `rem` com `line-height` pode acarretar na herança de tamanho de fonte desproporcional.
+4. No componente Button, utilizei a biblioteca [polished](https://polished.js.org/) para criar variações de luminância das cores do design system, para serem usadas no estado de `:hover` do componente.
 
 #### ➡️ Possíveis melhorias
 
@@ -38,7 +39,7 @@ Além disso, já que seria necessário utilizar esse “design system” no desa
 
 Este desafio foi bastante prazeroso. Transformar uma interface, mesmo que seja apenas um wireframe, em um design funcional é definitivamente um dos meus trabalhos favoritos.
 
-Pensando que esse formulário pode ser incorporado em um modal, popup ou toast no canto da tela, pensei em trabalhar o código como sempre faço: pensando que esse elemento deve ser fluído se adaptando em qualquer tamanho de container, conforme mockups abaixo:
+Pensando que esse formulário pode ser incorporado em um modal, popup ou toast no canto da tela, pensei em trabalhar o código como sempre faço: pensando que esse elemento deve ser fluído, se adaptando em qualquer tamanho de container, conforme protótipos abaixo:
 
 <center>
   <table>
@@ -70,7 +71,7 @@ Link para acessar o formulário: https://serasa-five.vercel.app/
 
 ## Desafio #3 - Arquitetura
 
-A resolução do desafio pode ser consultada no arquivo [CHALLENGE.md](https://github.com/jofelipe/desafio-serasa/blob/main/CHALLENGE.md).
+A resolução do desafio #3 pode ser consultada no arquivo [CHALLENGE.md](https://github.com/jofelipe/desafio-serasa/blob/main/CHALLENGE.md).
 
 E é isso. Espero ter a oportunidade de apresentar e explicar os códigos criados neste desafio com a equipe técnica, para discutirmos as motivações, os porquês e até outras formas (melhores) de resolver esses desafios. Me chama! 🙋🏻
 
