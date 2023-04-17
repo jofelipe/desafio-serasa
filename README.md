@@ -44,7 +44,7 @@ Pensando que esse formulário pode ser incorporado em um modal, popup ou toast n
   <table>
     <tr>
       <td><img width="600" alt="Serasa Exemplo #1" src="https://user-images.githubusercontent.com/1819244/232356333-35885864-d24a-4581-bded-3271db01e38f.png"></td>
-      <td><img width="600" alt="Serasa Exemplo #2" src="https://user-images.githubusercontent.com/1819244/232356328-5690bdbe-a6a6-429c-b6cf-0d857c88543a.jpg"></td>
+      <td><img width="600" alt="Serasa Exemplo #2" src="https://user-images.githubusercontent.com/1819244/232356681-4ecb2dfe-1d65-4593-bceb-6bce4e97933d.png"></td>
     </tr>
   </table>
 </center>
