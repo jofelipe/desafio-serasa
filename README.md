@@ -6,7 +6,14 @@ Este arquivo tem como objetivo descrever o processo de resolução dos desafios,
 
 A tecnologia utilizada para a resolução dos desafios foi o [Next.js](https://nextjs.org/) com TypeScript. Escolhi essa stack pela facilidade na componentização, foco em performance (objetivo do exercício) e pelo fácil gerenciamento dos states da aplicação. Perceba que no código-fonte há pouco ou quase nada de dependência utilizada (e quando há, é relatada), já que foquei em utilizar os recursos nativos do framework.
 
+## 📜 TL;DR
+
 O código-fonte dos desafios está neste repositório.
+
+- Link do desafio #1: https://serasa-five.vercel.app/documentacao
+- Link do desafio #2: https://serasa-five.vercel.app/
+- Link do desafio #3: https://github.com/jofelipe/desafio-serasa/blob/main/CHALLENGE.md
+- Projetos/Artigos/Feedback: https://github.com/jofelipe/desafio-serasa/blob/main/DELIVERY.md
 
 Vamos começar 🤌
 
