@@ -57,6 +57,8 @@ Pensando que esse formulário pode ser incorporado em um modal, popup ou toast n
   </table>
 </center>
 
+Vale citar que testei a aplicação através da navegação por teclado (usando tab), conforme requerido no desafio. Para a avaliação por estrelas, é possível usar setas do teclado para escolher a quantidade de estrelas desejada, conforme referência da W3.
+
 Tenho bastante facilidade em construir interfaces acessíveis, principalmente focando na semântica do código. De qualquer forma, vale destacar que criar um componente de votação por estrelas, de forma acessível, foi de certa forma desafiador.
 
 Link para acessar o formulário: https://serasa-five.vercel.app/
@@ -66,6 +68,9 @@ Link para acessar o formulário: https://serasa-five.vercel.app/
 1. Utilizei CSS nativo para estilizar toda essa interface, com exceção dos componentes Heading e Button. Fiz dessa forma para evitar o uso de dependências desnecessárias, além de evidenciar meu conhecimento em CSS. Em uma aplicação real, seria válido analisar ferramentas de reutilização, organização e modularização de código, como o próprio Styled Componentes citado acima, ou outras como SASS/LESS. `(src/styles/global.css)`
 2. Modifiquei um pouco a interface de carregamento e sucesso desenvolvida no wireframe, para melhor uso desse formulário em containers como: modais, popups, etc.
 3. Utilizei ferramentas de acessibilidade para testar a interface, além de ferramentas de performance como o PageSpeed Insights. O resultado do teste pode ser consultado aqui: https://pagespeed.web.dev/analysis/https-serasa-jofelipe-vercel-app/b4re15fsva?form_factor=mobile
+
+<img src="https://user-images.githubusercontent.com/72453805/232523778-887ed779-448e-4436-b0d9-66959a13f895.png" width="600" alt="Resultados do PageSpeed" />
+
 4. Fiz um mock de API usando as API Routes do Next.js. Como o envio do formulário é bastante rápido, usei um setInterval para que a resposta demore mais que três segundos (e assim seja visível o comportamento da interface durante o carregamento). Após a resposta, você pode consultar o console do navegador para ver os dados enviados.
 
 #### ➡️ Possíveis melhorias
@@ -78,7 +83,7 @@ Link para acessar o formulário: https://serasa-five.vercel.app/
 
 ## Desafio #3 - Arquitetura
 
-A resolução do desafio #3 pode ser consultada no arquivo [CHALLENGE.md](https://github.com/jofelipe/desafio-serasa/blob/main/CHALLENGE.md).
+A resolução do desafio #3 pode ser consultada no arquivo [CHALLENGE.md](https://github.com/jofelipe/desafio-serasa/blob/main/CHALLENGE.md)
 
 E é isso. Espero ter a oportunidade de apresentar e explicar os códigos criados neste desafio com a equipe técnica, para discutirmos as motivações, os porquês e até outras formas (melhores) de resolver esses desafios. Me chama! 🙋🏻
 
