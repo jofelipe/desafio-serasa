@@ -67,9 +67,11 @@ Link para acessar o formulário: https://serasa-five.vercel.app/
 
 1. Utilizei CSS nativo para estilizar toda essa interface, com exceção dos componentes Heading e Button. Fiz dessa forma para evitar o uso de dependências desnecessárias, além de evidenciar meu conhecimento em CSS. Em uma aplicação real, seria válido analisar ferramentas de reutilização, organização e modularização de código, como o próprio Styled Componentes citado acima, ou outras como SASS/LESS. `(src/styles/global.css)`
 2. Modifiquei um pouco a interface de carregamento e sucesso desenvolvida no wireframe, para melhor uso desse formulário em containers como: modais, popups, etc.
-3. Utilizei ferramentas de acessibilidade para testar a interface, além de ferramentas de performance como o PageSpeed Insights. O resultado do teste pode ser consultado aqui: https://pagespeed.web.dev/analysis/https-serasa-jofelipe-vercel-app/b4re15fsva?form_factor=mobile
+3. Utilizei ferramentas de acessibilidade para testar a interface, além de ferramentas de performance como o PageSpeed Insights. O resultado do teste pode ser consultado aqui: https://pagespeed.web.dev/analysis/https-serasa-jofelipe-vercel-app/b4re15fsva?form_factor=desktop
 
-<img src="https://user-images.githubusercontent.com/72453805/232523778-887ed779-448e-4436-b0d9-66959a13f895.png" width="600" alt="Resultados do PageSpeed" />
+<center>
+  <img src="https://user-images.githubusercontent.com/72453805/232523778-887ed779-448e-4436-b0d9-66959a13f895.png" width="600" alt="Resultados do PageSpeed" />
+</center>
 
 4. Fiz um mock de API usando as API Routes do Next.js. Como o envio do formulário é bastante rápido, usei um setInterval para que a resposta demore mais que três segundos (e assim seja visível o comportamento da interface durante o carregamento). Após a resposta, você pode consultar o console do navegador para ver os dados enviados.
 
