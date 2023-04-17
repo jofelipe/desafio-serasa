@@ -27,7 +27,7 @@ Além disso, já que seria necessário utilizar esse “design system” no desa
 
 1. Criei um arquivo para guardar os tokens desse design system, como cores e tamanhos de fonte. O objeto foi estruturado para uma fácil manutenção e adição de novos tokens, além da adaptação para casos em que os valores são diferentes para dispositivos web e mobile.
    `(src/styles/tokens.ts)`
-2. Utilizei `rem` para a unidade de medida do tamanho das fontes. Essa solução é ideal para acessibilidade, já que preserva algumas configurações de dispositivos do usuário. Usei o macete de definir um font-size de 62.5% no html para utilizar `rem` sem precisar fazer a conversão de `px` para `rem`. Ex.: 16px equivalem a 1.6rem.
+2. Utilizei `rem` para a unidade de medida do tamanho das fontes. Essa solução é ideal para acessibilidade, já que preserva algumas configurações de dispositivos do usuário. Usei o macete de definir um font-size de 62.5% no html para utilizar `rem` sem precisar fazer a conversão de `px` para `rem`. Ex.: 16px equivale a 1.6rem.
 3. Já no `line-height` do componente, utilizei `px` para deixar a medida fixa, já que usar `rem` com `line-height` pode acarretar na herança de tamanho de fonte desproporcional.
 4. No componente Button, utilizei a biblioteca [polished](https://polished.js.org/) para criar variações de luminância das cores do design system, para serem usadas no estado de `:hover` do componente.
 
@@ -57,7 +57,7 @@ Pensando que esse formulário pode ser incorporado em um modal, popup ou toast n
   </table>
 </center>
 
-Vale citar que testei a aplicação através da navegação por teclado (usando tab), conforme requerido no desafio. Para a avaliação por estrelas, é possível usar setas do teclado para escolher a quantidade de estrelas desejada, conforme referência da W3.
+Vale citar que testei a aplicação através da navegação por teclado (usando tab), conforme requerido no desafio. Para a avaliação por estrelas, é possível usar setas do teclado para escolher a quantidade de estrelas desejada, conforme referência da W3C.
 
 Tenho bastante facilidade em construir interfaces acessíveis, principalmente focando na semântica do código. De qualquer forma, vale destacar que criar um componente de votação por estrelas, de forma acessível, foi de certa forma desafiador.
 
