@@ -1,6 +1,6 @@
 # Entrega
 
-A instrução para acessar os desafios está no arquivo README.md
+A instrução para acessar os desafios está no arquivo [README.md](https://github.com/jofelipe/desafio-serasa/blob/main/README.md)
 
 ## Projetos
 

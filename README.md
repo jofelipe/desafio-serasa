@@ -43,8 +43,8 @@ Pensando que esse formulário pode ser incorporado em um modal, popup ou toast n
 <center>
   <table>
     <tr>
-      <td><img width="600" alt="Peakseekers" src="https://user-images.githubusercontent.com/1819244/102509713-9e801200-4065-11eb-909e-e1abb1023da7.jpg"></td>
-      <td><img width="600" alt="Peakseekers create story" src="https://user-images.githubusercontent.com/1819244/102509714-9f18a880-4065-11eb-944e-8622c80fd4d5.jpg"></td>
+      <td><img width="600" alt="Serasa Exemplo #1" src="https://user-images.githubusercontent.com/1819244/232356333-35885864-d24a-4581-bded-3271db01e38f.png"></td>
+      <td><img width="600" alt="Serasa Exemplo #2" src="https://user-images.githubusercontent.com/1819244/232356328-5690bdbe-a6a6-429c-b6cf-0d857c88543a.jpg"></td>
     </tr>
   </table>
 </center>
@@ -70,10 +70,10 @@ Link para acessar o formulário: https://serasa-five.vercel.app/
 
 ## Desafio #3 - Arquitetura
 
-A resolução do desafio pode ser consultada no arquivo CHALLENGE.md.
+A resolução do desafio pode ser consultada no arquivo [CHALLENGE.md](https://github.com/jofelipe/desafio-serasa/blob/main/CHALLENGE.md).
 
 E é isso. Espero ter a oportunidade de apresentar e explicar os códigos criados neste desafio com a equipe técnica, para discutirmos as motivações, os porquês e até outras formas (melhores) de resolver esses desafios. Me chama! 🙋🏻
 
-Por fim, escrevi sobre projetos realizados no arquivo DELIVERY.md
+Por fim, escrevi sobre projetos realizados no arquivo [DELIVERY.md](https://github.com/jofelipe/desafio-serasa/blob/main/DELIVERY.md)
 
 Até mais! 👋
