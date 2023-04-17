@@ -70,7 +70,11 @@ Link para acessar o formulário: https://serasa-five.vercel.app/
 3. Utilizei ferramentas de acessibilidade para testar a interface, além de ferramentas de performance como o PageSpeed Insights. O resultado do teste pode ser consultado aqui: https://pagespeed.web.dev/analysis/https-serasa-jofelipe-vercel-app/b4re15fsva?form_factor=desktop
 
 <center>
-  <img src="https://user-images.githubusercontent.com/72453805/232523778-887ed779-448e-4436-b0d9-66959a13f895.png" width="600" alt="Resultados do PageSpeed" />
+  <table>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/72453805/232523778-887ed779-448e-4436-b0d9-66959a13f895.png" width="600" alt="Resultados do PageSpeed" /></td>
+    </tr>
+  </table>
 </center>
 
 4. Fiz um mock de API usando as API Routes do Next.js. Como o envio do formulário é bastante rápido, usei um setInterval para que a resposta demore mais que três segundos (e assim seja visível o comportamento da interface durante o carregamento). Após a resposta, você pode consultar o console do navegador para ver os dados enviados.
