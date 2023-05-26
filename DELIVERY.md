@@ -11,7 +11,3 @@ A instrução para acessar os desafios está no arquivo [README.md](https://gith
 ## Artigos
 
 - O que aprendi em dez anos desenvolvendo para a Web: https://jofelipe.com/post/o-que-aprendi-em-10-anos-desenvolvendo-para-a-web
-
-## Feedback
-
-Achei bastante interessante o caráter técnico dos três desafios. Acredito que sejam projetos simples mas abertos o suficiente para destacar os pontos fortes e a experiência de cada candidato. Foi desafiador em alguns momentos e espero ter atingido um resultado satisfatório 🤗

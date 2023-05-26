@@ -12,8 +12,7 @@ O código-fonte dos desafios está neste repositório.
 
 - Link do desafio #1: https://serasa-five.vercel.app/documentacao
 - Link do desafio #2: https://serasa-five.vercel.app/
-- Link do desafio #3: https://github.com/jofelipe/desafio-serasa/blob/main/CHALLENGE.md
-- Projetos/Artigos/Feedback: https://github.com/jofelipe/desafio-serasa/blob/main/DELIVERY.md
+- Projetos/Artigos que publiquei: https://github.com/jofelipe/desafio-serasa/blob/main/DELIVERY.md
 
 Vamos começar 🤌
 
@@ -88,8 +87,6 @@ Link para acessar o formulário: https://serasa-five.vercel.app/
 - https://www.w3.org/WAI/tutorials/forms/custom-controls/
 
 ## Desafio #3 - Arquitetura
-
-A resolução do desafio #3 pode ser consultada no arquivo [CHALLENGE.md](https://github.com/jofelipe/desafio-serasa/blob/main/CHALLENGE.md)
 
 E é isso. Espero ter a oportunidade de apresentar e explicar os códigos criados neste desafio com a equipe técnica, para discutirmos as motivações, os porquês e até outras formas (melhores) de resolver esses desafios. Me chama! 🙋🏻
 
