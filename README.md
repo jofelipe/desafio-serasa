@@ -1,3 +1,5 @@
+[^1]: Este repositório é com base em um desafio para uma vaga de Desenvolvedor Front-end Sênior no Serasa, realizado em Abril de 2023. O repositório está público apenas para referência :)
+
 # Desafio Serasa
 
 Olá! Sou o Jonathan e primeiramente gostaria de agradecer pela oportunidade 😀
