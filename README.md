@@ -1,5 +1,3 @@
-[^1]: Este repositório é com base em um desafio para uma vaga de Desenvolvedor Front-end Sênior no Serasa, realizado em Abril de 2023. O repositório está público apenas para referência :)
-
 # Desafio Serasa
 
 Olá! Sou o Jonathan e primeiramente gostaria de agradecer pela oportunidade 😀
@@ -95,3 +93,5 @@ E é isso. Espero ter a oportunidade de apresentar e explicar os códigos criado
 Por fim, escrevi sobre projetos realizados no arquivo [DELIVERY.md](https://github.com/jofelipe/desafio-serasa/blob/main/DELIVERY.md)
 
 Até mais! 👋
+
+[^1]: Este repositório é com base em um desafio para uma vaga de Desenvolvedor Front-end Sênior no Serasa, realizado em Abril de 2023. O repositório está público apenas para referência :)
